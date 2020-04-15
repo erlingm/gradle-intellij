@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5aa04c1-e1e1-4050-b196-3a6153cba4b9" name="Default Changelist" comment="Classpath problem&#10;2019.3.4 version">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +100,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -112,6 +109,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -167,30 +165,20 @@
       </method>
     </configuration>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5aa04c1-e1e1-4050-b196-3a6153cba4b9" name="Default Changelist" comment="Classpath problem&#10;2019.3.4 version" />
+      <created>1586988790135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586988790135</updated>
+      <workItem from="1586988794239" duration="633000" />
+      <workItem from="1586989453409" duration="203000" />
+    </task>
+    <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -202,6 +190,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Classpath problem&#10;2019.3.4 version" />
@@ -212,10 +201,11 @@
       <screen x="-3840" y="-1083" width="3072" height="1728" />
     </state>
     <state x="-1944" y="-557" key="#Notifications/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586953741067" />
-    <state x="-2081" y="-561" width="1089" height="1087" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586951153529">
-      <screen x="-3840" y="-1083" width="3072" height="1728" />
+    <state x="771" y="221" width="904" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586989655137">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="-2081" y="-561" width="1089" height="1087" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586951153529" />
+    <state x="771" y="221" width="904" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160/5760.-960.1920.1200/1920.-960.2560.1440@0.0.1920.1160" timestamp="1586989655137" />
     <state x="-1774" y="-409" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586954003018">
       <screen x="-3840" y="-1083" width="3072" height="1728" />
     </state>
