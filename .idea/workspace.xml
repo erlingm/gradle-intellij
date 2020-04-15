@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5aa04c1-e1e1-4050-b196-3a6153cba4b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/GradleIntellijApplication.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/2019.3.4.classpath.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/no/moldesoft/gradleintellij/GradleIntellijApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/no/moldesoft/gradleintellij/GradleIntellijApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gradle-intellij" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gradle-intellij" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gradle-intellij" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gradle-intellij" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gradle-intellij" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gradle-intellij" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gradle-intellij" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1aZgpEmff3g0aqP66JQ7V0klwWi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.33563218" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2081" y="-561" width="1089" height="1087" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586951153529">
+      <screen x="-3840" y="-1083" width="3072" height="1728" />
+    </state>
+    <state x="-2081" y="-561" width="1089" height="1087" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586951153529" />
+    <state x="-1898" y="-674" key="FileDocumentManager.FileCacheConflict" timestamp="1586951145922">
+      <screen x="-3840" y="-1083" width="3072" height="1728" />
+    </state>
+    <state x="-1898" y="-674" key="FileDocumentManager.FileCacheConflict/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586951145922" />
+    <state width="1024" height="529" key="GridCell.Tab.0.bottom" timestamp="1586952336354">
+      <screen x="-3840" y="-1083" width="3072" height="1728" />
+    </state>
+    <state width="1024" height="529" key="GridCell.Tab.0.bottom/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586952336354" />
+    <state width="1024" height="529" key="GridCell.Tab.0.center" timestamp="1586952336354">
+      <screen x="-3840" y="-1083" width="3072" height="1728" />
+    </state>
+    <state width="1024" height="529" key="GridCell.Tab.0.center/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586952336354" />
+    <state width="1024" height="529" key="GridCell.Tab.0.left" timestamp="1586952336354">
+      <screen x="-3840" y="-1083" width="3072" height="1728" />
+    </state>
+    <state width="1024" height="529" key="GridCell.Tab.0.left/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586952336354" />
+    <state width="1024" height="529" key="GridCell.Tab.0.right" timestamp="1586952336354">
+      <screen x="-3840" y="-1083" width="3072" height="1728" />
+    </state>
+    <state width="1024" height="529" key="GridCell.Tab.0.right/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586952336354" />
+    <state width="1024" height="529" key="GridCell.Tab.1.bottom" timestamp="1586952336355">
+      <screen x="-3840" y="-1083" width="3072" height="1728" />
+    </state>
+    <state width="1024" height="529" key="GridCell.Tab.1.bottom/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586952336355" />
+    <state width="1024" height="529" key="GridCell.Tab.1.center" timestamp="1586952336354">
+      <screen x="-3840" y="-1083" width="3072" height="1728" />
+    </state>
+    <state width="1024" height="529" key="GridCell.Tab.1.center/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586952336354" />
+    <state width="1024" height="529" key="GridCell.Tab.1.left" timestamp="1586952336354">
+      <screen x="-3840" y="-1083" width="3072" height="1728" />
+    </state>
+    <state width="1024" height="529" key="GridCell.Tab.1.left/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586952336354" />
+    <state width="1024" height="529" key="GridCell.Tab.1.right" timestamp="1586952336354">
+      <screen x="-3840" y="-1083" width="3072" height="1728" />
+    </state>
+    <state width="1024" height="529" key="GridCell.Tab.1.right/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586952336354" />
+    <state x="-2056" y="-641" key="SettingsEditor" timestamp="1586949814568">
+      <screen x="-3840" y="-1083" width="3072" height="1728" />
+    </state>
+    <state x="-2056" y="-641" key="SettingsEditor/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586949814568" />
+    <state width="498" height="457" key="SwitcherDM" timestamp="1586951878423">
+      <screen x="-3840" y="-1083" width="3072" height="1728" />
+    </state>
+    <state width="498" height="457" key="SwitcherDM/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586951878423" />
+    <state x="-1874" y="-682" width="672" height="678" key="search.everywhere.popup" timestamp="1586950890389">
+      <screen x="-3840" y="-1083" width="3072" height="1728" />
+    </state>
+    <state x="-1874" y="-682" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-3840.-1083.3072.1728@-3840.-1083.3072.1728" timestamp="1586950890389" />
+  </component>
+</project>
